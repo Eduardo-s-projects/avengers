@@ -2,3 +2,4 @@
 
 * Investigar los planes del dr. Doom
 * Capturar a Red Skull.
+* Contactar a superman.
